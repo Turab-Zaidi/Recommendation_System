@@ -1,2 +1,6 @@
 # Recommendation_System
-Movie Recommendation System: File 1 implements CountVectorizer to analyze movie data for recommendations. File 2 utilizes TF-IDF with n-grams for enhanced text analysis. File 3 employs TF-IDF separately on reviews and tags
+Exploratory Data Analysis: Conducted thorough data exploration to understand patterns and distributions (exploratory_data_analysis.ipynb).
+
+Data Cleaning and Preprocessing: Cleaned data by handling null values, dropping columns, and imputing missing values and used NLP techniques with NLTK for text preprocessing(data_cleaning.ipynb, data_preprocessing.ipynb).
+
+Feature Extraction and Similarity Search:  Followed by TF-IDF for vectorization and similarity search to generate recommendations .
